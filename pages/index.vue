@@ -12,10 +12,6 @@
           <a href="#" class="hover:text-red-600">Notifications</a>
           <div class="absolute w-2 h-2 rounded-full bg-green-500 right-0 top-0" style="right:-10px"></div>
         </li>
-        <li>
-          <a href="#" class="flex items-center">
-          </a>
-        </li>
       </ul>
     </header>
 
